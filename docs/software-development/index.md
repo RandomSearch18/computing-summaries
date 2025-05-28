@@ -79,6 +79,7 @@ Here's an overview of the various software development lifecycles/methods/models
   - [1.2.3 Software Development Advanced notes](https://pmt.physicsandmathstutor.com/download/Computer-Science/A-level/Notes/OCR/1.2-Software-and-Software-Development/Advanced/1.2.3.%20Software%20Development.pdf)
 - Craig'n'Dave
   - [1.2 Development methodologies part 1](https://www.youtube.com/watch?v=qEmrXu8d1ys)
+  - [1.2 Development methodologies part 2](https://www.youtube.com/watch?v=f_-KHPB817o)
 
 <style>
 td.yes {
