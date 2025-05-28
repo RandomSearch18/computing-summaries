@@ -40,11 +40,11 @@ Here's an overview of the various software development lifecycles/methods/models
 </tr>
 <tr>
   <th rowspan=1>Iterative?</th>
-  <td class=no><td class=yes><td class=yes><td class=yes><td class=yes>
+  <td class=no /><td class=yes /><td class=yes /><td class=yes /><td class=yes />
 </tr>
 <tr>
   <th rowspan=1>Prototypes?</th>
-  <td class=no><td class=yes><td class=yes><td class=yes><td class=yes>
+  <td class=no /><td class=yes /><td class=yes /><td class=yes /><td class=yes />
 </tr>
 <tr>
   <th rowspan=1>User involvement</th>
@@ -56,15 +56,15 @@ Here's an overview of the various software development lifecycles/methods/models
 </tr>
 <tr>
   <th rowspan=1>Good documentation?</th>
-  <td class=yes><td class=maybe>Maybe at the end</td><td class=no><td class=maybe>Maybe</td><td class=no>
+  <td class=yes /><td class=maybe>Maybe at the end</td><td class=no /><td class=maybe>Maybe</td><td class=no />
 </tr>
 <tr>
   <th rowspan=1>Risk analysis?</th>
-  <td class=no><td class=yes><td class=no><td class=no><td class=no>
+  <td class=no /><td class=yes /><td class=no /><td class=no /><td class=no />
 </tr>
 <tr>
   <th rowspan=1>Focus groups?</th>
-  <td class=no><td class=no><td class=no><td class=no><td class=yes>
+  <td class=no /><td class=no /><td class=no /><td class=no /><td class=yes />
 </tr>
 <tr>
   <th rowspan=1>Velocity</th>
